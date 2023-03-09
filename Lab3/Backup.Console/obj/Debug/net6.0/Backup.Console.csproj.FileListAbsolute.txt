@@ -1,0 +1,36 @@
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/bin/Debug/net6.0/Backup.Console
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/bin/Debug/net6.0/Backup.Console.deps.json
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/bin/Debug/net6.0/Backup.Console.runtimeconfig.json
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/bin/Debug/net6.0/Backup.Console.dll
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/bin/Debug/net6.0/Backup.Console.pdb
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/bin/Debug/net6.0/Backups.dll
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/bin/Debug/net6.0/Backups.pdb
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.csproj.AssemblyReference.cache
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.AssemblyInfoInputs.cache
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.AssemblyInfo.cs
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.csproj.CoreCompileInputs.cache
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.csproj.CopyComplete
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.dll
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/refint/Backup.Console.dll
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.pdb
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.genruntimeconfig.cache
+/Users/anya/Documents/С#/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/ref/Backup.Console.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.csproj.AssemblyReference.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.AssemblyInfoInputs.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.AssemblyInfo.cs
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.csproj.CoreCompileInputs.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/refint/Backup.Console.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.pdb
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/bin/Debug/net6.0/Backup.Console
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/bin/Debug/net6.0/Backup.Console.deps.json
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/bin/Debug/net6.0/Backup.Console.runtimeconfig.json
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/bin/Debug/net6.0/Backup.Console.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/bin/Debug/net6.0/Backup.Console.pdb
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/bin/Debug/net6.0/Backups.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/bin/Debug/net6.0/Backups.pdb
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.csproj.CopyComplete
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/Backup.Console.genruntimeconfig.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/obj/Debug/net6.0/ref/Backup.Console.dll

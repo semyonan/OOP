@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nF+kTssHPoFrUgjdOxKKjQno4OLm0MK5buQnFzhM9gnJdri+ce7iDTBGaN75GLa+Yjr2bDbr74qAfNVUU1BUOg==",
+  "success": true,
+  "projectFilePath": "/Users/anya/Documents/C# new repo/semyonan/Lab2/Isu.Extra/Isu.Extra.csproj",
+  "expectedPackageFiles": [
+    "/Users/anya/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

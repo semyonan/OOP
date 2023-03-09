@@ -1,0 +1,12 @@
+/Users/anya/Documents/C# new repo/semyonan/Lab0/Isu/bin/Debug/net6.0/Isu.deps.json
+/Users/anya/Documents/C# new repo/semyonan/Lab0/Isu/bin/Debug/net6.0/Isu.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab0/Isu/bin/Debug/net6.0/Isu.pdb
+/Users/anya/Documents/C# new repo/semyonan/Lab0/Isu/obj/Debug/net6.0/Isu.csproj.AssemblyReference.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab0/Isu/obj/Debug/net6.0/Isu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anya/Documents/C# new repo/semyonan/Lab0/Isu/obj/Debug/net6.0/Isu.AssemblyInfoInputs.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab0/Isu/obj/Debug/net6.0/Isu.AssemblyInfo.cs
+/Users/anya/Documents/C# new repo/semyonan/Lab0/Isu/obj/Debug/net6.0/Isu.csproj.CoreCompileInputs.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab0/Isu/obj/Debug/net6.0/Isu.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab0/Isu/obj/Debug/net6.0/refint/Isu.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab0/Isu/obj/Debug/net6.0/Isu.pdb
+/Users/anya/Documents/C# new repo/semyonan/Lab0/Isu/obj/Debug/net6.0/ref/Isu.dll

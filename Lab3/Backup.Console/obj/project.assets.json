@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Backups/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Backups.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Backups.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Backups/1.0.0": {
+      "type": "project",
+      "path": "../Backups/Backups.csproj",
+      "msbuildProject": "../Backups/Backups.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Backups >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/anya/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/Backup.Console.csproj",
+      "projectName": "Backup.Console",
+      "projectPath": "/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/Backup.Console.csproj",
+      "packagesPath": "/Users/anya/.nuget/packages/",
+      "outputPath": "/Users/anya/Documents/C# new repo/semyonan/Lab3/Backup.Console/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/anya/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/anya/Documents/C# new repo/semyonan/Lab3/Backups/Backups.csproj": {
+              "projectPath": "/Users/anya/Documents/C# new repo/semyonan/Lab3/Backups/Backups.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

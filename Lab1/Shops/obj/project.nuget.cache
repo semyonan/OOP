@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/AZH+4ZSJBwlDU2Mm/y4WExRaat6oplLhlxjzLwwJd7VajNFi0DmfRgQVsdqJFspxdKLM/RNOLv8OmhGDSQX5w==",
+  "success": true,
+  "projectFilePath": "/Users/anya/Documents/C# new repo/semyonan/Lab1/Shops/Shops.csproj",
+  "expectedPackageFiles": [
+    "/Users/anya/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

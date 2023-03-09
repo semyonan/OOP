@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0SOo5U37hVZQgTqRcRpWxfb135AOUiNTFoEHiV6FzDFeLMtyKMwe3TrPreXI8KttCwEbjMoZ2aX3zVGAzS9DCw==",
+  "success": true,
+  "projectFilePath": "/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/Banks.Console.csproj",
+  "expectedPackageFiles": [
+    "/Users/anya/.nuget/packages/spectre.console/0.45.0/spectre.console.0.45.0.nupkg.sha512",
+    "/Users/anya/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512",
+    "/Users/anya/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

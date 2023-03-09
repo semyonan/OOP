@@ -1,0 +1,12 @@
+/Users/anya/Documents/C# new repo/semyonan/Lab1/Shops/bin/Debug/net6.0/Shops.deps.json
+/Users/anya/Documents/C# new repo/semyonan/Lab1/Shops/bin/Debug/net6.0/Shops.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab1/Shops/bin/Debug/net6.0/Shops.pdb
+/Users/anya/Documents/C# new repo/semyonan/Lab1/Shops/obj/Debug/net6.0/Shops.csproj.AssemblyReference.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab1/Shops/obj/Debug/net6.0/Shops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anya/Documents/C# new repo/semyonan/Lab1/Shops/obj/Debug/net6.0/Shops.AssemblyInfoInputs.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab1/Shops/obj/Debug/net6.0/Shops.AssemblyInfo.cs
+/Users/anya/Documents/C# new repo/semyonan/Lab1/Shops/obj/Debug/net6.0/Shops.csproj.CoreCompileInputs.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab1/Shops/obj/Debug/net6.0/Shops.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab1/Shops/obj/Debug/net6.0/refint/Shops.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab1/Shops/obj/Debug/net6.0/Shops.pdb
+/Users/anya/Documents/C# new repo/semyonan/Lab1/Shops/obj/Debug/net6.0/ref/Shops.dll

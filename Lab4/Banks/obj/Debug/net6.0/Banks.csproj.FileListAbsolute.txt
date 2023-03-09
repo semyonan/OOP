@@ -1,0 +1,24 @@
+/Users/anya/Documents/С#/semyonan/Lab4/Banks/bin/Debug/net6.0/Banks.deps.json
+/Users/anya/Documents/С#/semyonan/Lab4/Banks/bin/Debug/net6.0/Banks.dll
+/Users/anya/Documents/С#/semyonan/Lab4/Banks/bin/Debug/net6.0/Banks.pdb
+/Users/anya/Documents/С#/semyonan/Lab4/Banks/obj/Debug/net6.0/Banks.csproj.AssemblyReference.cache
+/Users/anya/Documents/С#/semyonan/Lab4/Banks/obj/Debug/net6.0/Banks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anya/Documents/С#/semyonan/Lab4/Banks/obj/Debug/net6.0/Banks.AssemblyInfoInputs.cache
+/Users/anya/Documents/С#/semyonan/Lab4/Banks/obj/Debug/net6.0/Banks.AssemblyInfo.cs
+/Users/anya/Documents/С#/semyonan/Lab4/Banks/obj/Debug/net6.0/Banks.csproj.CoreCompileInputs.cache
+/Users/anya/Documents/С#/semyonan/Lab4/Banks/obj/Debug/net6.0/Banks.dll
+/Users/anya/Documents/С#/semyonan/Lab4/Banks/obj/Debug/net6.0/refint/Banks.dll
+/Users/anya/Documents/С#/semyonan/Lab4/Banks/obj/Debug/net6.0/Banks.pdb
+/Users/anya/Documents/С#/semyonan/Lab4/Banks/obj/Debug/net6.0/ref/Banks.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks/bin/Debug/net6.0/Banks.deps.json
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks/bin/Debug/net6.0/Banks.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks/bin/Debug/net6.0/Banks.pdb
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks/obj/Debug/net6.0/Banks.csproj.AssemblyReference.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks/obj/Debug/net6.0/Banks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks/obj/Debug/net6.0/Banks.AssemblyInfoInputs.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks/obj/Debug/net6.0/Banks.AssemblyInfo.cs
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks/obj/Debug/net6.0/Banks.csproj.CoreCompileInputs.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks/obj/Debug/net6.0/Banks.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks/obj/Debug/net6.0/refint/Banks.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks/obj/Debug/net6.0/Banks.pdb
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks/obj/Debug/net6.0/ref/Banks.dll

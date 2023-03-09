@@ -1,0 +1,15 @@
+/Users/anya/Documents/C# new repo/semyonan/Lab6/DataBaseAccess/bin/Debug/net6.0/DataBaseAccess.deps.json
+/Users/anya/Documents/C# new repo/semyonan/Lab6/DataBaseAccess/bin/Debug/net6.0/DataBaseAccess.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab6/DataBaseAccess/bin/Debug/net6.0/DataBaseAccess.pdb
+/Users/anya/Documents/C# new repo/semyonan/Lab6/DataBaseAccess/bin/Debug/net6.0/Backups.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab6/DataBaseAccess/bin/Debug/net6.0/Backups.pdb
+/Users/anya/Documents/C# new repo/semyonan/Lab6/DataBaseAccess/obj/Debug/net6.0/DataBaseAccess.csproj.AssemblyReference.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab6/DataBaseAccess/obj/Debug/net6.0/DataBaseAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anya/Documents/C# new repo/semyonan/Lab6/DataBaseAccess/obj/Debug/net6.0/DataBaseAccess.AssemblyInfoInputs.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab6/DataBaseAccess/obj/Debug/net6.0/DataBaseAccess.AssemblyInfo.cs
+/Users/anya/Documents/C# new repo/semyonan/Lab6/DataBaseAccess/obj/Debug/net6.0/DataBaseAccess.csproj.CoreCompileInputs.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab6/DataBaseAccess/obj/Debug/net6.0/DataBaseAccess.csproj.CopyComplete
+/Users/anya/Documents/C# new repo/semyonan/Lab6/DataBaseAccess/obj/Debug/net6.0/DataBaseAccess.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab6/DataBaseAccess/obj/Debug/net6.0/refint/DataBaseAccess.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab6/DataBaseAccess/obj/Debug/net6.0/DataBaseAccess.pdb
+/Users/anya/Documents/C# new repo/semyonan/Lab6/DataBaseAccess/obj/Debug/net6.0/ref/DataBaseAccess.dll

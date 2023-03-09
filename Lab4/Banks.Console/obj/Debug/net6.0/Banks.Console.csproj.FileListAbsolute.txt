@@ -1,0 +1,38 @@
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/bin/Debug/net6.0/Banks.Console
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/bin/Debug/net6.0/Banks.Console.deps.json
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/bin/Debug/net6.0/Banks.Console.runtimeconfig.json
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/bin/Debug/net6.0/Banks.Console.dll
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/bin/Debug/net6.0/Banks.Console.pdb
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/bin/Debug/net6.0/Spectre.Console.dll
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/bin/Debug/net6.0/Banks.dll
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/bin/Debug/net6.0/Banks.pdb
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.csproj.AssemblyReference.cache
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.AssemblyInfoInputs.cache
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.AssemblyInfo.cs
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.csproj.CoreCompileInputs.cache
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.csproj.CopyComplete
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.dll
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/refint/Banks.Console.dll
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.pdb
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.genruntimeconfig.cache
+/Users/anya/Documents/С#/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/ref/Banks.Console.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/bin/Debug/net6.0/Banks.Console
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/bin/Debug/net6.0/Banks.Console.deps.json
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/bin/Debug/net6.0/Banks.Console.runtimeconfig.json
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/bin/Debug/net6.0/Banks.Console.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/bin/Debug/net6.0/Banks.Console.pdb
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/bin/Debug/net6.0/Spectre.Console.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/bin/Debug/net6.0/Banks.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/bin/Debug/net6.0/Banks.pdb
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.csproj.AssemblyReference.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.AssemblyInfoInputs.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.AssemblyInfo.cs
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.csproj.CoreCompileInputs.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.csproj.CopyComplete
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/refint/Banks.Console.dll
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.pdb
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/Banks.Console.genruntimeconfig.cache
+/Users/anya/Documents/C# new repo/semyonan/Lab4/Banks.Console/obj/Debug/net6.0/ref/Banks.Console.dll

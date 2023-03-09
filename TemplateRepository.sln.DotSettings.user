@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=564393b5_002D99a2_002D421e_002D8ebd_002D58ab8ec4bd2d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from IsuExrtraServiceTest.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;A420634A-A065-492B-B4F5-DCA27B9C4CF3/f:BanksTest.cs&lt;/ProjectFile&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::CDC9197E-D627-4705-8056-E67C46B786C7::net6.0::Backups.Extra.Test.BackupsExtraTest&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::3E97E07F-2BDF-4042-8C07-DD4C45415DB9::net6.0::Reports.Test.ReportsTest.AddEmployee&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::3E97E07F-2BDF-4042-8C07-DD4C45415DB9::net6.0::Reports.Test.ReportsTest&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5db2e88f_002D32c1_002D4a13_002D94ab_002D7013f3631595/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SendAndReceiveMessage #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::3E97E07F-2BDF-4042-8C07-DD4C45415DB9::net6.0::Reports.Test.ReportsTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e389b52b_002Dce35_002D45bf_002Dab9c_002D45975d12522d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SendAndReceiveMessage" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::3E97E07F-2BDF-4042-8C07-DD4C45415DB9::net6.0::Reports.Test.ReportsTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
